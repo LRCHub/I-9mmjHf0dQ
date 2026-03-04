@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "最低",
+  "base_artist": "れん",
+  "createdAt": "2026-03-04T07:25:36.774498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最低 (feat. 重音テト)",
+      "artist": "君嶋リョウ",
+      "has_synced": true,
+      "path": "select/01_最低_(feat._重音テト)_君嶋リョウ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最低",
+      "artist": "れん",
+      "has_synced": true,
+      "path": "select/02_最低_れん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "18 Ex 選べないなんて…最低。",
+      "artist": "しゅしょく",
+      "has_synced": true,
+      "path": "select/03_18_Ex_選べないなんて...最低。_しゅしょく.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トラック4：【お仕置き本番】最低…最悪だよ、こんなの…...！",
+      "artist": "あぶそりゅ～と",
+      "has_synced": true,
+      "path": "select/04_トラック4_【お仕置き本番】最低...最悪だよ、こんなの......!_あぶそりゅ~と.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最低",
+      "artist": "れん",
+      "has_synced": false,
+      "path": "select/pl_01_最低_れん.txt"
+    }
+  ]
+}
